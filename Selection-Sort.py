@@ -1,3 +1,5 @@
+# Selection Sort
+
 def selectionSort(array, size):
     for i in range(size):
         index = i
