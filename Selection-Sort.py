@@ -14,4 +14,4 @@ array_list = [79, 74, 28, 90, 49, 93, 62, 72, 52, 22]
 size = len(array_list)
 selectionSort(array_list, size)
 
-
+print("Sorted array for Selection Sort: ", array_list)
