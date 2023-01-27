@@ -7,7 +7,6 @@ def mergeSort(array):
 
         mergeSort(left)
         mergeSort(right)
-        print(left,right)
 
         i = 0 #left_index
         j = 0 #right_index
